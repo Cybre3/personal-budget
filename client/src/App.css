@@ -1,0 +1,14 @@
+input, select {
+  border-radius: 0.2rem;
+  margin-left: 1rem;
+}
+
+input {
+  outline: solid 2px black;
+  width: 30%;
+}
+
+input, select {
+  color: black;
+  padding-left: 4px;
+}
